@@ -2,6 +2,6 @@
 
 void main ()
 {
-	int m;//Ô²µÄ¸öÊý 
+	int m;//the number of Balloons 
 	printf("The optimal radio r is :");
 }
