@@ -1,18 +1,6 @@
 //我就是为了凑字数
 /*
-#include<stdio.h>
-#include<string.h>
-#include<math.h>
-const double pi=acos(-1.0);
-int n,x1,y11,z1,x2,y2,z2,vis[10],dis[10];
-double r[10],vol,max;
-int abs(int a)
-{
-	if(a<0)
-		return 0-a;
-	return a;
-}
-struct
+
 {
 	int x,y,z;
 }p[10];
